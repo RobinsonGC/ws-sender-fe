@@ -1,7 +1,7 @@
-<template>
+<template> 
   <v-layout>
     <!-- HERE -->
-    <iframe id="ifrm" :src="url" width="500" height="500"></iframe>
+    <iframe id="ifrm" :src="url" width="1280" height="720"></iframe>
   </v-layout>
 </template>
 <script>
